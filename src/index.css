@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* 220504 */
+.react_map_wrap {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.react_map_wrap .react_map {
+  margin: 20px 0;
+}
+
+.react_map_wrap .react_map p:nth-child(1) {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 10px 0;
+}
