@@ -1,10 +1,10 @@
 import React from 'react'
-import Map from './study/220504/Map'
+import Tabmenu from './study/220507/Tabmenu'
 
 const App = () => {
   return (
     <div className='App'>
-      <Map />
+      <Tabmenu />
     </div>
   )
 }
