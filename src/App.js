@@ -1,10 +1,10 @@
 import React from 'react'
-import Tabmenu from './study/220507/Tabmenu'
+import Axios from './study/220508/Axios'
 
 const App = () => {
   return (
     <div className='App'>
-      <Tabmenu />
+      <Axios />
     </div>
   )
 }
