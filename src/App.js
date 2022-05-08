@@ -1,10 +1,10 @@
 import React from 'react'
-import Axios from './study/220508/Axios'
+import Font from './study/220509/Font'
 
 const App = () => {
   return (
     <div className='App'>
-      <Axios />
+      <Font />
     </div>
   )
 }

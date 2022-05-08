@@ -88,3 +88,30 @@ li {
   background: #000;
   color: #fff;
 }
+/* 220509 */
+.font_wrap {
+  width: 300px;
+  margin: 0 auto;
+}
+.font_wrap > p {
+  margin: 10px 0;
+  font-size: 30px;
+}
+.font_wrap .bold {
+  font-weight: 700;
+}
+.font_wrap .semi-bold {
+  font-weight: 600;
+}
+.font_wrap .medium {
+  font-weight: 500;
+}
+.font_Wrap .normal {
+  font-weight: 400;
+}
+.font_wrap .light {
+  font-weight: 300;
+}
+.font_wrap .thin {
+  font-weight: 100;
+}
