@@ -1,10 +1,10 @@
 import React from 'react'
-import Font from './study/220509/Font'
+import Dropdown from './study/220511/Dropdown'
 
 const App = () => {
   return (
     <div className='App'>
-      <Font />
+      <Dropdown />
     </div>
   )
 }

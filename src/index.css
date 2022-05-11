@@ -115,3 +115,63 @@ li {
 .font_wrap .thin {
   font-weight: 100;
 }
+/* 220511 */
+.faq {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.faq h2 {
+  text-align: center;
+  font-size: 40px;
+  margin: 50px 0;
+}
+li {
+  text-decoration: none;
+  list-style: none;
+}
+
+button {
+  all: unset;
+}
+
+.faq_item {
+  cursor: pointer;
+  padding: 30px;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+.faq_item .title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.faq_item .title .text {
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: -0.05em;
+}
+.faq_item .desc {
+  font-size: 16px;
+  color: #ccc;
+  letter-spacing: 0.05em;
+  display: none;
+  margin-top: 10px;
+  transition: all .3s;
+}
+
+.faq_item.on .title .text {
+  color: green;
+}
+
+.faq_item.on .desc {
+  display: block;
+}
+
+
+.minus {
+  color: green;
+}
