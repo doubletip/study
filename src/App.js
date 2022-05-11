@@ -1,10 +1,10 @@
 import React from 'react'
-import Dropdown from './study/220511/Dropdown'
+import Accordion from './study/220511/Accordion'
 
 const App = () => {
   return (
     <div className='App'>
-      <Dropdown />
+      <Accordion />
     </div>
   )
 }
