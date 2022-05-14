@@ -19,3 +19,6 @@
 ## 220513  
 ### css flex 게임
 출처 : https://flexboxfroggy.com/#ko
+
+## 220514  
+### node dotenv
