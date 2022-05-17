@@ -1,10 +1,10 @@
 import React from 'react'
-import Accordion from './study/220511/Accordion'
+import AddList from './study/220517/AddList'
 
 const App = () => {
   return (
     <div className='App'>
-      <Accordion />
+      <AddList />
     </div>
   )
 }

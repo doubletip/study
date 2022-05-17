@@ -171,7 +171,27 @@ button {
   display: block;
 }
 
-
 .minus {
   color: green;
+}
+
+/* 220517 */
+.addlist {
+  width: 500px;
+  margin: 0 auto;
+}
+.addlist_wrap input {
+  width: 200px;
+  height: 30px;
+}
+
+.addlist_wrap button {
+  background: black;
+  height: 30px;
+  color: #fff;
+  margin-left: 5px;
+  padding: 0 10px;
+}
+.addlist_wrap p {
+  margin: 10px 0;
 }
