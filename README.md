@@ -27,4 +27,10 @@
 ### 리액트 useState 리스트추가하기  
 
 ## 220520  
-### 자바스크립트 삼항연산자
+### 자바스크립트 삼항연산자  
+
+## 220521  
+### 프로그래머스 1단계 자바스크립트 없는 숫자 더하기  
+출처  
+https://developer.mozilla.org/ko/  
+https://programmers.co.kr/
