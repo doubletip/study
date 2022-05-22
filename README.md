@@ -34,3 +34,9 @@
 출처  
 https://developer.mozilla.org/ko/  
 https://programmers.co.kr/
+
+## 220522  
+### 프로그래머스 1단계 자바스크립트 문자열을 정수로 바꾸기  
+출처  
+https://developer.mozilla.org/ko/  
+https://programmers.co.kr/
