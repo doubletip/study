@@ -51,3 +51,8 @@ https://programmers.co.kr/
 ### 프로그래머스 1단계 자바스크립트 나머지가 1이 되는 수 찾기
 출처  
 https://programmers.co.kr/
+
+## 220527
+### 프로그래머스 1단계 자바스크립트 약수의 합
+출처  
+https://programmers.co.kr/
