@@ -73,3 +73,8 @@ https://www.youtube.com/c/LamaDev
 ### 프로그래머스 1단계 콜라츠 추측
 출처  
 https://programmers.co.kr/  
+
+## 220601
+### 프로그래머스 1단계 하샤드 수
+출처  
+https://programmers.co.kr/  
