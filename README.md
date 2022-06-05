@@ -88,3 +88,8 @@ https://programmers.co.kr/
 ### 프로그래머스 1단계 두 정수 사이의 합
 출처  
 https://programmers.co.kr/  
+
+## 220604
+### 프로그래머스 1단계 나누어 떨어지는 숫자 배열
+출처  
+https://programmers.co.kr/  
