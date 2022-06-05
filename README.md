@@ -93,3 +93,8 @@ https://programmers.co.kr/
 ### 프로그래머스 1단계 나누어 떨어지는 숫자 배열
 출처  
 https://programmers.co.kr/  
+
+## 220606
+### 프로그래머스 1단계 짝수와 홀수
+출처  
+https://programmers.co.kr/  
