@@ -108,3 +108,8 @@ https://programmers.co.kr/
 ### 프로그래머스 1단계 서울에서 김서방 찾기
 출처  
 https://programmers.co.kr/  
+
+## 220610
+### 프로그래머스 1단계 x만큼 간격이 있는 n개의 숫자
+출처  
+https://programmers.co.kr/  
