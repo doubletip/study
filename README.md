@@ -113,3 +113,8 @@ https://programmers.co.kr/
 ### 프로그래머스 1단계 x만큼 간격이 있는 n개의 숫자
 출처  
 https://programmers.co.kr/  
+
+## 220614
+### 프로그래머스 1단계 이상한 문자 만들기
+출처  
+https://programmers.co.kr/  
