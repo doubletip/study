@@ -50,7 +50,7 @@ h1 {
 }
 
 .faq_list .icon {
-    transition: all .5s;
+    transition: all 1s;
 }
 
 .faq_list.active .icon {
