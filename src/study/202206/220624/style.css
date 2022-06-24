@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrap {
+    width:1600px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+h1 {
+    font-size: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.grid_container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+}
+.grid_card {
+    border: 1px solid #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 150px;
+}
