@@ -139,3 +139,8 @@ https://programmers.co.kr/
 
 ## 220624
 ### css grid
+
+## 220625
+### 자바스크립트 BMI 계산기
+출처
+https://youtube.com/watch?v=sm4QVfhOP6Y
