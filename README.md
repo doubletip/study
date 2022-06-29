@@ -154,3 +154,8 @@ https://www.youtube.com/watch?v=8GPPJpiLqHk&t=554s
 ### 자바스크립트 10개 프로젝트 - Toast Notifaction ( 2 / 10)
 출처
 https://www.youtube.com/watch?v=8GPPJpiLqHk&t=554s
+
+## 220625
+### 자바스크립트 10개 프로젝트 - Auto Write Text ( 3 / 10)
+출처
+https://www.youtube.com/watch?v=8GPPJpiLqHk&t=554s
