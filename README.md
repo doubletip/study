@@ -174,3 +174,8 @@ https://www.youtube.com/watch?v=8GPPJpiLqHk&t=554s
 ### 자바스크립트 10개 프로젝트 - Background-Changer ( 6 / 10)
 출처
 https://www.youtube.com/watch?v=8GPPJpiLqHk&t=554s
+
+## 220705
+### 자바스크립트 10개 프로젝트 - Dark Mode Toggle ( 7 / 10)
+출처
+https://www.youtube.com/watch?v=8GPPJpiLqHk&t=554s
