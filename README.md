@@ -184,3 +184,8 @@ https://www.youtube.com/watch?v=8GPPJpiLqHk&t=554s
 ### 자바스크립트 10개 프로젝트 - Carousel ( 8 / 10)
 출처
 https://www.youtube.com/watch?v=8GPPJpiLqHk&t=554s
+
+## 220709
+### 자바스크립트 10개 프로젝트 - Zoom Effect ( 10 / 10)
+출처
+https://www.youtube.com/watch?v=8GPPJpiLqHk&t=554s
