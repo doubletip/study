@@ -191,4 +191,4 @@ https://www.youtube.com/watch?v=8GPPJpiLqHk&t=554s
 https://www.youtube.com/watch?v=8GPPJpiLqHk&t=554s
 
 ## 220710
-### 깃허브 레포지토리 생성 및 추가
+### 깃허브 레포지토리 생성 및 연결 방법
