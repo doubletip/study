@@ -189,3 +189,6 @@ https://www.youtube.com/watch?v=8GPPJpiLqHk&t=554s
 ### 자바스크립트 10개 프로젝트 - Zoom Effect ( 10 / 10)
 출처
 https://www.youtube.com/watch?v=8GPPJpiLqHk&t=554s
+
+## 220710
+### 깃허브 레포지토리 생성 및 추가
