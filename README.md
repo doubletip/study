@@ -192,3 +192,6 @@ https://www.youtube.com/watch?v=8GPPJpiLqHk&t=554s
 
 ## 220710
 ### 깃허브 레포지토리 생성 및 연결 방법
+
+## 220711
+### 자바스크립트 체크박스 선택
