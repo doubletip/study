@@ -195,3 +195,6 @@ https://www.youtube.com/watch?v=8GPPJpiLqHk&t=554s
 
 ## 220711
 ### 자바스크립트 체크박스 선택
+
+## 220721
+### 자바스크립트 별 만들기
