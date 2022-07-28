@@ -210,3 +210,6 @@ https://www.youtube.com/watch?v=8GPPJpiLqHk&t=554s
 
 ## 220726
 ### 자바스크립트 3일차, 리액트 유료강의 3일차
+
+## 220727
+### html 파비콘 적용하기
