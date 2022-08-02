@@ -219,3 +219,6 @@ https://www.youtube.com/watch?v=8GPPJpiLqHk&t=554s
 
 ## 220731
 ### 자바스크립트 4일차, 리액트 4일차 , 커스텀 스크롤바 만들기
+
+## 220802
+### 리액트 children
