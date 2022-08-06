@@ -222,3 +222,6 @@ https://www.youtube.com/watch?v=8GPPJpiLqHk&t=554s
 
 ## 220802
 ### 리액트 children
+
+## 220806
+### 자바스크립트 4일차, 리액트 5일차
