@@ -229,5 +229,5 @@ https://www.youtube.com/watch?v=8GPPJpiLqHk&t=554s
 ## 220807
 ### 자바스크립트 5일차, 리액트 6일차  
 
-## 220807
+## 220810
 ### css방법론 (smacss,bem,oocss)
