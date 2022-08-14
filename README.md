@@ -237,3 +237,6 @@ https://www.youtube.com/watch?v=8GPPJpiLqHk&t=554s
 
 ## 220813
 ### 자바스크립트 6일차, 리액트 7일차  
+
+## 220814
+### scss 정리 - 2
