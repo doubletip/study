@@ -243,3 +243,6 @@ https://www.youtube.com/watch?v=8GPPJpiLqHk&t=554s
 
 ## 220815
 ### scss 정리 - 3
+
+## 220819
+### scss 정리 - 4
