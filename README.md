@@ -249,3 +249,6 @@ https://www.youtube.com/watch?v=8GPPJpiLqHk&t=554s
 
 ## 220820
 ### 자바스크립트 7일차, 리액트 8일차  
+
+## 220824
+### 자바스크립트 every(), some()  
