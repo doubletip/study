@@ -258,3 +258,6 @@ https://www.youtube.com/watch?v=8GPPJpiLqHk&t=554s
 
 ## 220827
 ### 자바스크립트 9일차, 리액트 10일차  
+### 자바스크립트 join()
+출처  
+https://developer.mozilla.org/ko/  
