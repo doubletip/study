@@ -261,3 +261,6 @@ https://www.youtube.com/watch?v=8GPPJpiLqHk&t=554s
 ### 자바스크립트 join()
 출처  
 https://developer.mozilla.org/ko/  
+
+## 220828
+### 자바스크립트 9일차 
